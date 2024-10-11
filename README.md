@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbaswangde&label=Profile%20views&color=0e75b6&style=flat" alt="abbaswangde" /> </p>
 
-- 🔭 I’m currently working on [Boston-Housing-Pridiction-Model](https://github.com/abbaswangde/Boston-Housing-Pridiction-Model)
+- 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Swift Projects**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **App Development**
 
 - 💬 Ask me about **Software testing**
 
